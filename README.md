@@ -108,6 +108,10 @@ I design and ship **production backend systems** — from API layers and busines
   <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=BoGomolTrue&repo=samp-server-docker&theme=tokyonight&hide_border=true&border_radius=12&title_color=e94560&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="samp-server-docker"/>
 </a>
 
+<a href="https://github.com/BoGomolTrue/WindowsXP-Classic">
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=BoGomolTrue&repo=WindowsXP-Classic&theme=tokyonight&hide_border=true&border_radius=12&title_color=e94560&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="WindowsXP-Classic"/>
+</a>
+
 **GTA SA:MP Linux Server for Docker**
 
 | | |
