@@ -112,15 +112,6 @@ I design and ship **production backend systems** — from API layers and busines
   <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=BoGomolTrue&repo=WindowsXP-Classic&theme=tokyonight&hide_border=true&border_radius=12&title_color=e94560&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="WindowsXP-Classic"/>
 </a>
 
-**GTA SA:MP Linux Server for Docker**
-
-| | |
-|---|---|
-| **Problem** | Running a GTA SA:MP server requires manual setup of the game server, MySQL, and Redis on Linux |
-| **Solution** | A pre-configured Docker image with all services wired together and ready to deploy |
-| **Stack** | Docker · MySQL 5.7 · Redis · Linux |
-| **Result** | One-command deployment, isolated environment, production-ready configuration out of the box |
-
 ---
 
 ### 📊 GitHub Stats
